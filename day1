@@ -1,0 +1,11 @@
+git install  --- install process complet
+create new file -------- open git bash 
+toch day1
+ls
+git clone
+ls 
+git status 
+git add day1
+git commit -m "mss"
+gti push
+
